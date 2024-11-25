@@ -29,7 +29,10 @@ The app emphasizes user feedback, collaboration through forums, and adherence to
 
 Root folder (extracted folder): empoweru_group_n
 
-empoweru_main.py is the main python file to be run to launch the application.
+empoweru_main.py is the main python file to be run to launch the application. To login and test the functionalities, use the credentials: <br>
+Role: Admin <br>
+Username: rochelle <br>
+Password: r0che11e
 
 empoweru_group_n/data : Contains data files. The 'database' layer.<br>
 empoweru_group_n/images: Contains image for logo of EmpowerU.<br>
