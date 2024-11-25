@@ -1,0 +1,41 @@
+Poster:Rochelle Dunn (Admin) - Y,N
+Title:Welcome To EmpowerU!
+Message:
+Hello everyone, and welcome to the very first forum post on EmpowerU!
+
+This space is designed to foster a supportive and collaborative learning environment where learners can share their experiences, ask questions, and help one another grow in their journey through programming, information security, and artificial intelligence.
+
+To ensure the forum remains a safe and productive space, here are a few key guidelines we ask everyone to follow:
+
+Respectful Communication
+Always be kind and respectful in your interactions. Constructive feedback is encouraged, but personal attacks, bullying, or discriminatory language of any kind will not be tolerated.
+
+Stay On-Topic
+Keep your posts relevant to the discussion at hand. Whether you're asking for help or sharing knowledge, staying on-topic ensures everyone can benefit from the conversation.
+
+No Plagiarism
+Feel free to share resources or code, but always give credit where it’s due. If you're sharing something that’s not your own work, make sure to acknowledge the original source.
+
+No Spamming
+Please avoid posting the same question multiple times or cluttering threads with unnecessary content. This will help keep the forum organized and useful for everyone.
+
+Sensitive Information
+Do not post any personal or confidential information, whether it’s your own or someone else's. This includes sensitive data, passwords, or anything that could compromise security.
+
+Ask for Help – Offer Help
+Feel free to ask questions! There’s no such thing as a "silly" question here. We also encourage experienced learners to lend a hand and support others when possible.
+
+Report Issues
+If you notice any behavior that goes against these guidelines or makes you feel uncomfortable, please report it to the admins immediately. We want to ensure that everyone feels safe and heard.
+
+Let’s work together to make this forum a valuable resource for all learners. We're excited to see the incredible discussions and knowledge sharing that will take place here!
+
+Happy learning,
+EmpowerU Admin Team
+Tag:General
+Comments:
+<c1>Jerry May (Admin) - Y,N:20241003101053:Welcome everyone! I'm Jerry and I am an admin of EmpowerU too. We hope you have a meaningful learning experience here.
+<c2>Rochelle Dunn (Admin) - Y,N:20241003101100:Jerry is very friendly, everyone!
+<c2>Jane Doe (Learner) - Y,N:20241003125300:Thanks for the warm welcome.
+<c3>Bob Ryan (Teacher) - N,N:20241003130000:Welcome student!
+<c1>Rochelle Dunn (Admin) - N,N:20241003101100:If you have any enquiries, please don't hesitate to reach out to either of us via email!

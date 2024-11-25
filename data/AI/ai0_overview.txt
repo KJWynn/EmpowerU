@@ -1,0 +1,13 @@
+Welcome to an introductory course to Artificial Intelligence!
+
+The objective of this unit is to provide a foundational understanding of Artificial Intelligence and its various applications. 
+Throughout the course, you will gain knowledge of AI principles, including machine learning, neural networks, and ethical 
+concerns. Each lesson will outline learning goals and objectives for the week, helping you track your progress. No prior 
+programming or AI experience is required, and we encourage students with diverse backgrounds to engage with the material and 
+collaborate with their peers.
+
+On completion of the unit you will be able to:
+- Describe what AI is and explain the core concepts related to AI
+- Demonstrate how AI applications and use cases can transform our lives and our work
+- Recognize the potential and impact of AI to transform businesses and careers
+- Describe the issues, limitations, and ethical concerns surrounding AI

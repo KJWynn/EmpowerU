@@ -1,0 +1,11 @@
+Welcome to an introductory course on Information Security!
+
+The objective of this unit is to provide a comprehensive understanding of the key principles, practices, and technologies involved in securing information systems. Throughout the course, you will learn about various security threats, vulnerabilities, and the strategies used to protect sensitive data. Each lesson will outline clear learning goals and objectives, enabling you to track your progress and build your security knowledge step by step. No prior knowledge of information security is required, and students are encouraged to participate actively and collaborate with peers.
+
+Upon completion of this unit, you will be able to:
+
+Understand the fundamentals of information security and the core concepts such as confidentiality, integrity, and availability (CIA triad).
+Identify common security threats, vulnerabilities, and attacks, and explain the risks associated with each.
+Demonstrate best practices for protecting information systems, including encryption, firewalls, and secure authentication.
+Recognize the importance of security policies, governance, and legal frameworks in maintaining organizational and personal security.
+Evaluate the ethical considerations and privacy issues related to the collection, storage, and sharing of information.

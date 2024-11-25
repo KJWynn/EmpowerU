@@ -1,0 +1,14 @@
+Overview:
+Artificial Intelligence (AI) is a branch of computer science focused on creating systems that can perform tasks that typically require human intelligence. These tasks include problem-solving, learning, reasoning, understanding natural language, and more. This module will introduce you to the foundational concepts of AI and its various applications.
+
+Content:
+What is Artificial Intelligence? Artificial Intelligence refers to machines designed to simulate human intelligence. AI systems are capable of tasks such as recognizing speech, playing games, or even driving cars. AI is a broad field with subfields like machine learning, natural language processing, robotics, and expert systems.
+
+History of AI The concept of AI has existed for centuries, but modern AI began to take shape in the 1950s. Early AI research focused on symbolic systems and logic, giving rise to expert systems in the 1970s and 80s. In the last two decades, AI has shifted towards machine learning, driven by advances in computational power and data availability.
+
+Applications of AI
+
+Healthcare: AI is used in diagnostic systems, personalized treatment, and drug discovery.
+Finance: Automated trading systems, fraud detection, and customer support are areas where AI plays a major role.
+Autonomous Systems: Self-driving cars, drones, and robotic systems are examples of AI-driven autonomy.
+Challenges in AI AI systems face challenges like bias in decision-making, data privacy concerns, and ethical implications of automation. Understanding these limitations is critical for the responsible deployment of AI.

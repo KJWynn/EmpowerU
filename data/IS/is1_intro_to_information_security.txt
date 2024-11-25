@@ -1,0 +1,23 @@
+Overview:
+Information Security, or cybersecurity, is the practice of protecting data and systems from unauthorized access, theft, damage, and other cyber threats. This module will introduce you to the fundamentals of information security, covering key concepts, types of threats, and best practices for safeguarding information.
+
+Content:
+What is Information Security? Information security focuses on the protection of data integrity, confidentiality, and availability (the "CIA triad"). Securing information ensures that only authorized individuals can access, modify, or delete data.
+
+The CIA Triad
+
+Confidentiality: Ensures that sensitive information is only accessible to those authorized to view it.
+Integrity: Ensures that information remains accurate and unaltered, protecting it from unauthorized changes.
+Availability: Ensures that information and resources are available to authorized users when needed.
+Common Security Threats
+
+Malware: Malicious software, including viruses, worms, and ransomware, designed to damage systems or steal data.
+Phishing: Fraudulent attempts to steal sensitive information by pretending to be a legitimate entity, often via email or social engineering.
+Man-in-the-Middle Attacks: An attacker intercepts and possibly alters communications between two parties without their knowledge.
+Denial of Service (DoS) Attacks: An attack aimed at shutting down a service or network by overwhelming it with traffic.
+Best Practices for Information Security
+
+Strong Passwords: Using complex and unique passwords for accounts and changing them regularly.
+Encryption: Protecting data by encoding it, so that only authorized parties can read it.
+Multi-Factor Authentication (MFA): Adding an extra layer of security by requiring multiple forms of authentication to access a system.
+Regular Software Updates: Ensuring that software is up-to-date to fix vulnerabilities that could be exploited by attackers.

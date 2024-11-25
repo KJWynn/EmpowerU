@@ -1,0 +1,26 @@
+Overview:
+Ethical hacking involves identifying security vulnerabilities in a system by simulating real-world attacks. Incident response refers to the process of handling and mitigating the effects of a security breach. This module will introduce key ethical hacking techniques and the process of responding to security incidents.
+
+Content:
+What is Ethical Hacking? Ethical hacking, also known as penetration testing or white-hat hacking, is the practice of legally probing networks, systems, and applications to identify security weaknesses. Ethical hackers help organizations fix vulnerabilities before they can be exploited by malicious actors.
+
+Penetration Testing Phases
+
+Reconnaissance: The initial phase, where the hacker gathers information about the target system, network, or application.
+Scanning: Using tools to scan the network for vulnerabilities or open ports that could be exploited.
+Exploitation: Attempting to exploit the identified vulnerabilities to gain unauthorized access.
+Reporting: Documenting the vulnerabilities found and providing recommendations for remediation.
+Common Ethical Hacking Tools
+
+Nmap: A network scanning tool used to discover open ports and vulnerabilities in a network.
+Metasploit: A framework used to develop, test, and execute exploits on vulnerable systems.
+Wireshark: A packet analyzer tool used for network troubleshooting and analysis.
+Incident Response Phases
+
+Preparation: Ensuring that an organization is ready to respond to security incidents by establishing policies, procedures, and teams.
+Detection and Analysis: Identifying the occurrence of a security incident and understanding its scope and impact.
+Containment, Eradication, and Recovery: Stopping the spread of the attack, removing the threat, and restoring systems to normal operation.
+Post-Incident Review: Analyzing what happened, documenting lessons learned, and improving defenses to prevent future incidents.
+Real-World Case Study: Data Breach Response
+
+Example Scenario: A large retail company experiences a data breach where customer payment information is stolen. Ethical hackers help analyze how the attackers gained access, while the incident response team works to contain the breach, notify affected customers, and improve security protocols to prevent future attacks.

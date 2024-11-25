@@ -1,0 +1,7 @@
+Python Programming Test
+What is the correct file extension for Python files?,,Which of the following is used to output data in Python?,,What is the result of 2 + 3 * 4 in Python?
+.py,,.java,,.txt,,.cpp
+echo,,print(),,console.log(),,printf()
+20,,14,,24,,9
+0,,1,,1
+

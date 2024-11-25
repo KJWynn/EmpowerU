@@ -1,0 +1,6 @@
+Information Security Test
+What is the main purpose of a firewall in a computer network?,,Which of the following is considered the strongest type of password?,,What is phishing?
+To speed up the internet,,To create a wireless network,,To block unauthorized access to or from a private network,,To increase storage space
+123456,,password,,Qwerty2024,,C#4rG@!B7x!
+A method of encrypting data,,An attempt to trick someone into providing personal information,,A technique to improve internet speed,,A way of storing passwords
+2,,3,,1

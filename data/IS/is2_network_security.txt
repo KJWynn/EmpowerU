@@ -1,0 +1,25 @@
+Overview:
+Network security involves protecting an organization’s network infrastructure from unauthorized access, misuse, and attacks. This module will explore how networks are secured, covering firewalls, encryption protocols, intrusion detection systems, and common attack vectors.
+
+Content:
+What is Network Security? Network security refers to the tools and techniques used to protect data while it's being transmitted over networks. It ensures that data is not intercepted, tampered with, or accessed by unauthorized entities.
+
+Firewalls A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. Firewalls create a barrier between secure internal networks and untrusted external networks.
+
+Encryption Protocols
+
+SSL/TLS (Secure Sockets Layer/Transport Layer Security): These protocols are used to secure communications over the internet, such as when accessing websites or sending emails.
+VPNs (Virtual Private Networks): VPNs create a secure "tunnel" for data transmission over the internet, ensuring privacy and protection from eavesdropping.
+Intrusion Detection and Prevention Systems (IDPS)
+
+Intrusion Detection Systems (IDS): These systems monitor network traffic for suspicious activities and issue alerts when potential threats are detected.
+Intrusion Prevention Systems (IPS): An extension of IDS, IPS not only detects threats but also actively blocks or mitigates them in real time.
+Common Network Attacks
+
+Packet Sniffing: Attackers use packet sniffing tools to intercept data packets on a network to capture sensitive information.
+IP Spoofing: Attackers disguise themselves as a trusted source by modifying the IP address of data packets, allowing them to hijack communications.
+SQL Injection: A type of attack where attackers inject malicious SQL queries into a network's database system, aiming to manipulate or steal data.
+Securing Wi-Fi Networks
+
+WPA2 Encryption: A standard security protocol for Wi-Fi networks that ensures only authorized users can access the network.
+MAC Address Filtering: Restricting access to a network based on the unique MAC address of a device.

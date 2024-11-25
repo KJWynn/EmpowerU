@@ -1,0 +1,22 @@
+Welcome to Python Programming!
+
+The objective of the unit is to provide an understanding of how to create computer programs in Python. At the beginning of each lesson we will outline the learning goals and objectives that should be achieved for the week. This unit requires no previous programming experience and we encourage students who have prior programming experience to approach topics with an open mind and collaborate with their peers.
+
+On completion of the unit you will be able to:
+- Effectively use variables, conditionals and loops in computer programs.
+- Design, construct and test simple programs that include user-defined functions and data structures.
+- Implement good programming practices in a team, including unit testing, basic documentation and readability.
+- Write programs efficiently by discovering and leveraging libraries.
+
+This semester we will approach weekly content through a flipped classroom approach. 
+This means you do most of the learning on your own, actively wherever, whenever and however you'd like to do it. 
+We will have regular "Workshop" sessions but we expect students to come to class prepared with the expectation 
+that you've completed and understood the pre-reading for the week. Meaning when you come to class, you will come prepared 
+to come to your classes to ask questions about the topic for the week and discuss them with your peers and tutors.
+
+Each week you will have the following:
+1x - 2 hour Workshop
+1x - 2 hour Applied Session
+
+Where the Workshop is your opportunity to actively learn the content for the week and the Applied session is an opportunity 
+for you to ask questions/work with your peers etc. after your workshop has completed. 

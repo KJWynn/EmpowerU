@@ -1,0 +1,55 @@
+EmpowerU Personal Data Protection Policy
+Last Updated: October 2024
+At EmpowerU, we are committed to protecting the privacy and personal data of our users. This policy outlines how we collect, use, and store your personal information during the registration process and throughout your use of our platform. Our aim is to comply with relevant data protection laws, including but not limited to the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and any other applicable local regulations.
+
+1. Data Collection
+When registering on EmpowerU, we collect the following personal information:
+
+Name: Used to personalize communication and interactions on the platform.
+Age: Used to ensure eligibility for age-appropriate content and services.
+Email Address: Used for account verification, communication, and account recovery.
+Username: Used to identify users within the platform and for login purposes.
+Password: Used to secure access to the account. EmpowerU does not store passwords in plain text but uses encryption and hashing to ensure security.
+2. Purpose of Data Collection
+The personal data collected during registration is used solely for the following purposes:
+
+Account Creation: To create and maintain a user account in our system.
+Service Delivery: To provide users access to content, resources, and personalized features on EmpowerU.
+User Communication: To send service-related emails, such as account verification, password recovery, updates, and notifications related to platform activity.
+Security: To ensure secure access to user accounts and prevent unauthorized access.
+EmpowerU will never sell, rent, or share your personal data with third parties for marketing or commercial purposes without your explicit consent.
+
+3. Data Storage and Security
+EmpowerU is committed to implementing industry-standard security measures to protect the personal data of our users.
+
+Encryption: Personal data, including passwords, is encrypted both in transit and at rest to safeguard it from unauthorized access.
+Access Controls: Access to personal data is restricted to authorized personnel who require the information to perform specific tasks (e.g., customer support, technical maintenance).
+Data Storage: Personal data is stored on secure servers that comply with applicable data protection regulations and are located in jurisdictions with strong privacy protections.
+Retention Period: Personal data is retained for as long as the account is active or as necessary to fulfill legal and operational requirements. After account deactivation or deletion, personal data will be securely deleted or anonymized within a reasonable time frame, in accordance with applicable laws.
+4. User Rights
+EmpowerU respects your rights regarding your personal data. Depending on your jurisdiction, you may have the following rights:
+
+Right to Access: You can request a copy of your personal data held by EmpowerU.
+Right to Rectification: You can request that we correct any inaccurate or incomplete personal data.
+Right to Deletion: You can request that we delete your personal data. Please note that some data may need to be retained for legal or operational reasons.
+Right to Data Portability: You can request a copy of your data in a structured, commonly used format.
+Right to Restrict Processing: You can request that we restrict the processing of your personal data under certain circumstances.
+To exercise any of these rights, please contact us at privacy@empoweru.com. We will respond to your request within the time frame required by applicable laws.
+
+5. Third-Party Services
+EmpowerU may use trusted third-party service providers for various operational needs, such as cloud hosting and email delivery. These providers are required to adhere to our privacy standards and applicable legal requirements. Personal data is not shared with third-party services except as necessary to provide the service.
+
+6. Cookies and Tracking Technologies
+EmpowerU uses cookies and similar technologies to improve the user experience, analyze site usage, and ensure secure access to the platform. You have the option to control cookie settings through your browser and can choose to disable certain types of cookies.
+
+7. Changes to this Policy
+EmpowerU reserves the right to update this Personal Data Protection Policy to reflect changes in legal requirements or our practices. Users will be notified of significant changes through email or notifications on the platform.
+
+8. Contact Information
+If you have any questions or concerns regarding your personal data or this policy, please contact us at:
+
+EmpowerU Privacy Team
+Email: privacy@empoweru.com
+Address: 123 Learning Avenue, EduTech City, 45678
+
+EmpowerU takes the protection of your personal data seriously. By using our platform, you consent to the collection, use, and storage of your personal data as outlined in this policy.
